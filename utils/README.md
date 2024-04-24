@@ -57,11 +57,11 @@
       <td>Test Github</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src=>
         </a>
       </td>
       <td>
-        <a href="https://github.com/thaislobatoo/github-readme-stats"> Test GitHub by @thaislobatoo</a>
+        <a href="https://github.com/thaislobatoo/gitHub-readme-test"> Test GitHub by @thaislobatoo</a>
       </td>
     </tr>
     <tr>
