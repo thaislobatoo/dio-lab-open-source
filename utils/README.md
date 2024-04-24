@@ -52,6 +52,13 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
       </td>
     </tr>
+      </a>
+      </td>
+      <td>
+        <a href="https://github.com/thaislobatoo/github-readme-stats">GitHub Stats by @thaislobatoo</a>
+      </td>
+    </tr>
+    <tr>
   </tbody>
   <tfoot></tfoot>
 </table>
